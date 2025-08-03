@@ -5,6 +5,8 @@ I'm CS engineer and currently doing my master's degree.
 - Algorythms
 - Machine Learning
 - Computer Vision
+- Graphs
+- Neural Networks
 
 
 ## What's here?
