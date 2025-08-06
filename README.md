@@ -1,5 +1,5 @@
 # Hello there
-I'm CS engineer and currently doing my master's degree.
+I'm CS engineer and currently pursuing my master's degree.
 
 ## What I'm into:
 - Algorythms
